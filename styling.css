@@ -1,0 +1,18 @@
+body{
+	background-image: url(headerr.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1{
+ color: whitesmoke; 
+ height: 800px;
+ width: 2000px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ text-align: center;
+	
+
+
+}
